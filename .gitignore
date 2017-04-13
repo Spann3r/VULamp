@@ -1,0 +1,6 @@
+__vm/
+Release/
+.vs/
+Chromelamp.sln
+Chromelamp.vcxproj
+Chromelamp.vcxproj.filters
